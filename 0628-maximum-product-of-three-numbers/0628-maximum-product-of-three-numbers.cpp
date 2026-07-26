@@ -4,6 +4,8 @@ public:
         int a = INT_MIN;
         int b = INT_MIN;
         int c = INT_MIN;
+        int d = INT_MAX;
+        int e = INT_MAX;
 
         for(int i = 0; i < nums.size(); i++)
         {
@@ -23,8 +25,24 @@ public:
             {
                 c = nums[i];
             }
+
+            if(nums[i] < d)
+            {
+                e = d;
+                d = nums[i];
+            }
+
+            else if(nums[i] >= d && nums[i] <= e)
+            {
+                e = nums[i];
+            }
+
+
         }
 
-        return (long long)a * b * c;
+        int x = a * b * c;
+        int y = a * d * e;
+
+        return max(x, y);
     }
 };
