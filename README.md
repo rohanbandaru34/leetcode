@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohanbandaru34/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/rohanbandaru34/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/rohanbandaru34/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohanbandaru34/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rohanbandaru34/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohanbandaru34/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1004-max-consecutive-ones-iii](https://github.com/rohanbandaru34/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/rohanbandaru34/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1260-shift-2d-grid](https://github.com/rohanbandaru34/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/rohanbandaru34/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -69,9 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/rohanbandaru34/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rohanbandaru34/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rohanbandaru34/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/rohanbandaru34/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
