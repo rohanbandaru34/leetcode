@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rohanbandaru34/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0561-array-partition](https://github.com/rohanbandaru34/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohanbandaru34/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohanbandaru34/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rohanbandaru34/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohanbandaru34/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/rohanbandaru34/leetcode/tree/master/0561-array-partition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rohanbandaru34/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohanbandaru34/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rohanbandaru34/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
