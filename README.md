@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rohanbandaru34/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rohanbandaru34/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohanbandaru34/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/rohanbandaru34/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/rohanbandaru34/leetcode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3731-find-missing-elements](https://github.com/rohanbandaru34/leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohanbandaru34/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rohanbandaru34/leetcode/tree/master/0877-stone-game) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/rohanbandaru34/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rohanbandaru34/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rohanbandaru34/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rohanbandaru34/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -113,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rohanbandaru34/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/rohanbandaru34/leetcode/tree/master/0035-search-insert-position) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohanbandaru34/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/rohanbandaru34/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohanbandaru34/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/rohanbandaru34/leetcode/tree/master/0561-array-partition) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/rohanbandaru34/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rohanbandaru34/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohanbandaru34/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
