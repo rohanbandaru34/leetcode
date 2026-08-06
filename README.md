@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/rohanbandaru34/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/rohanbandaru34/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohanbandaru34/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/rohanbandaru34/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohanbandaru34/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/rohanbandaru34/leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohanbandaru34/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohanbandaru34/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/rohanbandaru34/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rohanbandaru34/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohanbandaru34/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rohanbandaru34/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohanbandaru34/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/rohanbandaru34/leetcode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohanbandaru34/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/rohanbandaru34/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/rohanbandaru34/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rohanbandaru34/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/rohanbandaru34/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -122,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rohanbandaru34/leetcode/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/rohanbandaru34/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 <!---LeetCode Topics End-->
