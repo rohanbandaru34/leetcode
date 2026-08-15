@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohanbandaru34/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/rohanbandaru34/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/rohanbandaru34/leetcode/tree/master/1025-divisor-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohanbandaru34/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/rohanbandaru34/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Math
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohanbandaru34/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rohanbandaru34/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/rohanbandaru34/leetcode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rohanbandaru34/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/rohanbandaru34/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rohanbandaru34/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rohanbandaru34/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/rohanbandaru34/leetcode/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -167,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohanbandaru34/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/rohanbandaru34/leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/rohanbandaru34/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
