@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-string-without-aaa-or-bbb](https://github.com/rohanbandaru34/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohanbandaru34/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/rohanbandaru34/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohanbandaru34/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rohanbandaru34/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohanbandaru34/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -185,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/rohanbandaru34/leetcode/tree/master/1025-divisor-game) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
