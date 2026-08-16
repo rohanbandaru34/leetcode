@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rohanbandaru34/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohanbandaru34/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rohanbandaru34/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/rohanbandaru34/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohanbandaru34/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/rohanbandaru34/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohanbandaru34/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rohanbandaru34/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/rohanbandaru34/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohanbandaru34/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0984-string-without-aaa-or-bbb](https://github.com/rohanbandaru34/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rohanbandaru34/leetcode/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohanbandaru34/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rohanbandaru34/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/rohanbandaru34/leetcode/tree/master/1025-divisor-game) |
