@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/rohanbandaru34/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohanbandaru34/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rohanbandaru34/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rohanbandaru34/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/rohanbandaru34/leetcode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rohanbandaru34/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/rohanbandaru34/leetcode/tree/master/3731-find-missing-elements) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/rohanbandaru34/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1260-shift-2d-grid](https://github.com/rohanbandaru34/leetcode/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rohanbandaru34/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
