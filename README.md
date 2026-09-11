@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rohanbandaru34/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/rohanbandaru34/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohanbandaru34/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rohanbandaru34/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/rohanbandaru34/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/rohanbandaru34/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rohanbandaru34/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rohanbandaru34/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/rohanbandaru34/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohanbandaru34/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rohanbandaru34/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0984-string-without-aaa-or-bbb](https://github.com/rohanbandaru34/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohanbandaru34/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/rohanbandaru34/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohanbandaru34/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohanbandaru34/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rohanbandaru34/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/rohanbandaru34/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohanbandaru34/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/rohanbandaru34/leetcode/tree/master/1052-grumpy-bookstore-owner) |
