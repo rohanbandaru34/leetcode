@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rohanbandaru34/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rohanbandaru34/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/rohanbandaru34/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/rohanbandaru34/leetcode/tree/master/0035-search-insert-position) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohanbandaru34/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/rohanbandaru34/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rohanbandaru34/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohanbandaru34/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/rohanbandaru34/leetcode/tree/master/0561-array-partition) |
 | [0984-string-without-aaa-or-bbb](https://github.com/rohanbandaru34/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rohanbandaru34/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/rohanbandaru34/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohanbandaru34/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohanbandaru34/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Brainteaser
