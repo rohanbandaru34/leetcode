@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rohanbandaru34/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohanbandaru34/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0984-string-without-aaa-or-bbb](https://github.com/rohanbandaru34/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohanbandaru34/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/rohanbandaru34/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -227,10 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
