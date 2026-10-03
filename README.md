@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/rohanbandaru34/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/rohanbandaru34/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/rohanbandaru34/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohanbandaru34/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohanbandaru34/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rohanbandaru34/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohanbandaru34/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/rohanbandaru34/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/rohanbandaru34/leetcode/tree/master/1025-divisor-game) |
@@ -230,12 +232,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
