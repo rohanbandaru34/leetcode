@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rohanbandaru34/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohanbandaru34/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/rohanbandaru34/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rohanbandaru34/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rohanbandaru34/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rohanbandaru34/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rohanbandaru34/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/rohanbandaru34/leetcode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rohanbandaru34/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rohanbandaru34/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rohanbandaru34/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
