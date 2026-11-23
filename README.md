@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/rohanbandaru34/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohanbandaru34/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohanbandaru34/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/rohanbandaru34/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rohanbandaru34/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohanbandaru34/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rohanbandaru34/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
